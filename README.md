@@ -1,2 +1,2 @@
 # MobileLeap
-Our html mobile class project
+Our html class project
